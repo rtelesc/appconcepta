@@ -1,0 +1,14 @@
+.ticket-list {
+	background: #eee;
+	padding:  1rem 1.5rem;
+}
+
+.ticket-list__item {
+	margin: 0 0 .5rem;
+	border-bottom: 1px solid #ddd;
+}
+
+.ticket-list__item .item__photos ul {
+	list-style: none;
+}
+

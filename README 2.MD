@@ -1,5 +1,6 @@
-# Test php and react
+# Goal
 
+Render a ReactJS application inside of a WordPress plugin.
 
 # Installation Guide and Usage
 
